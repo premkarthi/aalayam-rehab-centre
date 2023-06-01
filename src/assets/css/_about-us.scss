@@ -4,7 +4,9 @@
     display: flex;
     gap: rem(58);
     padding: rem(100) 0 rem(85);
-
+    @media #{$tab} {
+      padding: rem(20) 0 rem(25);
+    }
     div {
       width: calc(50% - 29px);
     }

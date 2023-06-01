@@ -35,6 +35,7 @@
         box-shadow: 0 rem(2) rem(28) rgba(70, 59, 59, 0.09);
 
         .img-wrapper {
+          margin-bottom: 20px;
           img {
             width: 100%;
             min-height: 100%;
@@ -64,6 +65,9 @@
           color: #1b0238;
           font-family: "Catamaran", sans-serif;
           margin-bottom: rem(13);
+          @media #{$mobile} {
+            padding: 0 rem(10);
+          }
         }
 
         p {
@@ -77,6 +81,10 @@
           padding: 0 rem(30);
           margin-bottom: rem(24);
           margin-top: auto;
+
+          @media #{$mobile} {
+            padding: 0 rem(10);
+          }
         }
 
         .timings {

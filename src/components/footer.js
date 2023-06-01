@@ -16,10 +16,8 @@ function Footer() {
                   <div className="logo-wrapper">
                     <img src={logo} alt="logo" loading="lazy" />
                   </div>
-                  <p className="description">Lorem ipsum dolor sit amet, consectetur
-                    adipiscing elit, sed do eiusmod tempor
-                    incididunt ut labore et dolore magna
-                    aliqua.</p>
+                  <p className="description">Transforming Lives. Restoring Hope. Empowering Individuals. Aalayam Rehab Centre.
+              .</p>
                   <ul className="links-container">
                     <li><Link to=''>
                         <img src={facebook} alt="fb-icon" loading="lazy" />
@@ -43,7 +41,7 @@ function Footer() {
                         <img src={phone} alt="phone-icon" loading="lazy" />
                         <h4>Phone</h4>
                       </div>
-                      <Link to='tel:6374688843'>6374688843</Link>
+                      <Link to='tel:6374688843'>+91-6374-688-843</Link>
                     </li>
                     <li>
                       <div className="content">
@@ -57,7 +55,7 @@ function Footer() {
                         <img src={location} alt="location-icon" loading="lazy" />
                         <h4>Address</h4>
                       </div>
-                      <p>Pandy illam, #55, customs colony, thoraipakkam ,Chennai-97.</p>
+                      <p>Pandy illam, #55, customs colony, <br></br> thoraipakkam ,Chennai-97.</p>
                     </li>
                   </ul>
                 </div>

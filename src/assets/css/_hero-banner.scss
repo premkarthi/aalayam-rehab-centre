@@ -41,6 +41,11 @@
         text-align: center;
         color: #ffffff;
         margin-bottom: rem(19);
+
+        @media #{$mobile} {
+          font-size: rem(40);
+          line-height: rem(50);
+        }
       }
 
       .description {
@@ -70,7 +75,7 @@
 
     .wrapper {
       .content-wrapper {
-        width: 80%;
+        width: 90%;
       }
     }
   }

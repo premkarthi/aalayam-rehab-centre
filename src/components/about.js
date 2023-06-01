@@ -7,22 +7,11 @@ function About() {
                 <span className="sub-text">Who We Are</span>
                 <h2 className="title"><span>Alayam</span> Rehab Centre</h2>
                 <p className="description">
-                Alayam Rehab Centre has been established in 2004 to cater to the
-                children with all kinds of Developmental disabilities. Alayam Rehab
-                Centre is a social initiative, committed to serve the children with
-                special needs, their families and the associated social environment.
-                We offer multispecialty therapy services such as occupational
-                therapy, Special education, physiotherapy, and other physiological
-                services for the children with all types of developmental
-                disabilities like ASD, ADHD, ADD, CP, MR, Down syndrome and so On.
+                Aalayam Rehab Centre was established 2004 to provide comprehensive support for children with a diverse range of developmental disabilities. As a social initiative, our core commitment lies in serving children with special needs, as well as their families and the wider social environment. We deliver a wide array of multispecialty therapy services, including occupational therapy, special education, physiotherapy, and other physiological interventions, catering to children with various developmental disabilities such as Autism Spectrum Disorder (ASD), Attention Deficit Hyperactivity Disorder (ADHD), Attention Deficit Disorder (ADD), Cerebral Palsy (CP), Mental Retardation (MR), Down syndrome, and more.
                 </p>
+                <br></br>
                 <p className="description">
-                We work with the aim of adding meaning to the life of an individual
-                with special needs by inculcating their strength and their abilities
-                to achieve maximum independency for a pleasant survival in the
-                society they belong. The intervention multi-specialist therapy
-                approach paves the way for the barrier free, better future of the
-                children with special needs.
+                Our primary goal is to imbue the lives of individuals with special needs with meaning, by nurturing their strengths and abilities, empowering them to achieve maximum independence for a fulfilling existence within their own communities. Through our multi-specialist therapy approach, we pave the way for a future that is devoid of barriers, allowing children with special needs to thrive and flourish.
                 </p>
             </div>
 

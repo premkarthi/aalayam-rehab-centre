@@ -71,6 +71,10 @@
           display: flex;
           flex-direction: column;
           align-items: center;
+          @media #{$mobile} {
+            width: calc(100%);
+          }
+          
 
           img {
             width: rem(108px);

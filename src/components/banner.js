@@ -4,7 +4,7 @@ function Banner() {
         <div className="wrapper">
           <div className="content-wrapper">
             <span className="sub-text">Play, Learn and Grow</span>
-            <h1 className="title">Welcome to Alayam Rebah Centre</h1>
+            <h1 className="title">Welcome to Aalayam Rebah Centre</h1>
             <p className="description">
               Aalayam Rehab Centre has been established to cater to the children
               with developmental disabilities. We offer physiotherapy ,

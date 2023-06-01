@@ -1,6 +1,6 @@
 // function
 @function rem($unit) {
-  $rem: ($unit / 16) + rem;
+  $rem: calc($unit / 16) + rem;
   @return $rem;
 }
 
